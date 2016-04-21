@@ -1,0 +1,33 @@
+body{
+	background-image: url(https://blogucn.files.wordpress.com/2013/08/colportores.jpg);
+}
+
+#contenedor{
+	width: 400px;
+    height: 460px;
+	background-color: white;
+	left: 33%;
+	position: relative;
+    margin-top: 100px;
+}
+p{
+	padding: 1px;
+	position: relative;
+	left: 13%;
+}
+input{
+	position: absolute;
+	left: 28%;
+}
+select{
+	position: absolute;
+	left: 30%;
+}
+h1{
+	position: relative;
+	left: 15%;
+}
+#Registrarse{
+	position: relative;
+	left: 38%;
+}

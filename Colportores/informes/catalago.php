@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Informes</title>
+</head>
+<body>
+	<h2><span class="fontawesome-lock"></span>Pocisiones</h2>
+      <table class="heavyTable" id="mitabla">
+      <thead>
+        <tr>
+          <th>Nombre de Colportor</th>
+          <th>Libro o Coleccion</th>
+          <th>Cliente</th>
+          <th>Monto</th>
+          <th>Cuantos Pagos</th>
+          <th>Contacto Misionero</th>
+          <th>Compras Gema</th>
+          <th>Campo</th>
+          <th>Asosiado</th>
+          <th>Viaticos</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+</body>
+</html>
