@@ -1,0 +1,36 @@
+body{
+	background-image: url();
+}
+#contenedor{
+    width: 500px;
+    height: 600px;
+	background-color: white;
+	left: 30%;
+	position: relative;
+    margin-top: 25px;
+}
+p{
+	padding: 1px;
+	position: relative;
+	left: 20%;
+}
+input{
+	position: absolute;
+	left: 30%;
+}
+select{
+	position: absolute;
+	left: 30%;
+}
+h1{
+	position: relative;
+	left: 40%;
+}
+#enviar{
+	position: relative;
+	left: 30%;
+	width: 30%;
+	height: 20%;
+	
+
+}

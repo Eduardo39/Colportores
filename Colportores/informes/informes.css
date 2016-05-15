@@ -1,5 +1,7 @@
+@author Eduardo Ortiz 
+@version 1.0 
 body{
-	background-image: url(https://blogucn.files.wordpress.com/2013/08/colportores.jpg);
+	background-image: url();
 }
 #contenedor{
     width: 500px;
@@ -28,5 +30,9 @@ h1{
 }
 #enviar{
 	position: relative;
-	left: 40%;
+	left: 30%;
+	width: 30%;
+	height: 20%;
+	
+
 }
